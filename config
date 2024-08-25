@@ -1,6 +1,6 @@
 {
   "Version":"20",
-  "Update":"https://raw.githubusercontent.com/hwoxan/pnetplus/main/config",
+  "Update":"https://github.com/edinhonet4g/edinhonet4g/blob/main/config",
   "UdpPort":"7300",
   "Contato":"https://t.me/pudim",
   "Site":"https://www.speedtest.net",
