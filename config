@@ -10,7 +10,7 @@
          "ServerPort":"80",
          "USER":"",
          "PASS":"",
-         "Name":"VIVO SECURITY 1",
+         "Name":"VIVO SECURITY 111",
          "FLAG":"https://telegra.ph/file/02b0f511eaaaa1d2d467a.png",
          "Payload":"[split][delay_split]ACL / /\n]",
          "ProxyIP":"172.233.17.8",
